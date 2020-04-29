@@ -1,3 +1,4 @@
+ansicolor
 ace-editor
 ant
 antisamy-markup-formatter
